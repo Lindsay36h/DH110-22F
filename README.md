@@ -1,7 +1,7 @@
 # DH110-22F
 
-Clean Water Project <proj name>
-Lindsay Harrison in DH110
+## Marine Life Project
+### Lindsay Harrison in DH110
 
-This project is about ...
+This project focuses on the status of marine life due to pollution in the waters surrounding Los Angeles.
 
