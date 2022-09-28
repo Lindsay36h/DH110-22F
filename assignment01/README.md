@@ -5,4 +5,4 @@
 
 This project focuses on the status of marine life due to pollution in the waters surrounding Los Angeles.
 
-![Seal pups](seals.jfif)
+![Seal pups](../seals.jfif)
