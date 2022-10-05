@@ -11,11 +11,16 @@ To begin, I will analyze the design of the SCCWRP's website, along with a simila
 ### Ocean Visions
 #### ACTIVE URL: https://oceanvisions.org/
 
-![Heuristic Evaluation Intro and Screenshots](../Intro1.png)
-![Heuristic Evaluation, Heuristics 1 through 5](../Eval1_5.png)
-![Heuristic Evaluation, Heuristics 6 through 10](../Eval6_10.png)
+![Ocean Visions Heuristic Evaluation Intro and Screenshots](../Intro1.png)
+![Ocean Visions Heuristic Evaluation, Heuristics 1 through 5](../Eval1_5.png)
+![Ocean Visions Heuristic Evaluation, Heuristics 6 through 10](../Eval6_10.png)
 
 
 
 ### The Southern California Coastal Water Research Project (SCCWRP)
 #### ACTIVE URL: https://www.sccwrp.org/ 
+
+
+![SCCWRP Heuristic Evaluation Intro and Screenshots](../Intro2.png)
+![SCCWRP Heuristic Evaluation, Heuristics 1 through 5](../Eval1_5_2.png)
+![SCCWRP Heuristic Evaluation, Heuristics 6 through 10](../Eval6_10_2.png)
