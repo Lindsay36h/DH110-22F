@@ -11,7 +11,7 @@ To begin, I will analyze the design of the SCCWRP's website, along with a simila
 ### Ocean Visions
 #### ACTIVE URL: https://oceanvisions.org/
 
-![Heuristic Evaluation Intro and Screenshots](../Heuristic Evaluation Intro Page.jfif)
+![Heuristic Evaluation Intro and Screenshots](../Heuristic Evaluation Intro Page.png)
 
 
 
