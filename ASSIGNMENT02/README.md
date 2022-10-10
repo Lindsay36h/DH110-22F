@@ -31,6 +31,8 @@ The usability test will consist of the following sections:
 
 
 
+
+
 #### The Tasks
 
 In the current usability study, the following heuristics will be tested: **(3) user control and freedom, (4) consistency and standards, (5) error prevention, and (6) recognition rather than recall**. Heuristics 3 and 4 were chosen for testing since they were ranked the most severe, and heuristics 5 and 6 were additionally chosen since they also have somewhat high severity ratings. Moreover, heuristic 5 is crucial to the basic functionality and efficiency of a website, and heuristic 6 is important when the website contains extensive information along with performable actions as the SCCWRP’s website does.
