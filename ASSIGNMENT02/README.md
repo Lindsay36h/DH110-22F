@@ -65,7 +65,7 @@ The task will ask the user to identify specific contact information for a partic
 
 ## Video Recording of UT Session
 
-#### Link: [Pilot Study Video](https://drive.google.com/file/d/1mYxoCmRj4v0TzjbeDJoA_bCeuXkoloI3/view?usp=sharing)
+#### Link: [Pilot Test Video](https://drive.google.com/file/d/1mYxoCmRj4v0TzjbeDJoA_bCeuXkoloI3/view?usp=sharing)
 
 
 
