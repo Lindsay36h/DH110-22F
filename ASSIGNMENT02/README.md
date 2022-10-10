@@ -27,6 +27,31 @@ The usability test will consist of the following sections:
 
 **Production Satisfaction Card Selection:** This survey attempts to qualify the interface according to the user’s perception by asking them to select 5 adjectives that they feel best describe the product from a grid of numerous words.
 
+**Post-test Poll:** The user will answer some basic demographic information, so that the researchers may better describe the participant group.
+
+
+
+#### The Tasks
+
+In the current usability study, the following heuristics will be tested: **(3) user control and freedom, (4) consistency and standards, (5) error prevention, and (6) recognition rather than recall**. Heuristics 3 and 4 were chosen for testing since they were ranked the most severe, and heuristics 5 and 6 were additionally chosen since they also have somewhat high severity ratings. Moreover, heuristic 5 is crucial to the basic functionality and efficiency of a website, and heuristic 6 is important when the website contains extensive information along with performable actions as the SCCWRP’s website does.
+
+
+##### Task 1
+
+The user will be asked to use the site’s publication search functionality. This will mainly serve to test (3) user control and freedom since it will involve the user moving through several of the site’s states. The task will also test (5) error prevention, since a condition exists in the search functionality that produces an error message.
+
+##### Task 2
+
+The user will search for information regarding the association’s public meetings. This will mainly serve to test (4) consistency and standards as the task will involve the user navigating through multiple similar pages. The task additionally tests for (6) recognition rather than recall since it will test the visibility of certain navigational and other links as the user attempts to find them.
+
+##### Task 3
+
+The user will be asked to identify a specific dataset that would aid them as a specific type of researcher. This task will mainly test (3) user control and freedom since, like the first task, it involves navigating through different states. Unlike the first task, this task will also involve site navigation to a greater extent. The task also tests (5) error prevention as there are several error-prone conditions within the task.
+
+##### Task 4
+
+The task will ask the user to identify specific contact information for a particular member of the SCCWRP’s staff. The task will test for (4) consistency and standards since it will take the user to several new pages and allow us to observe if the user responds similarly to the staff page’s action items compared to other pages.
+
 
 
 
