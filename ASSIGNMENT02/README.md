@@ -16,10 +16,15 @@ The present study is the pilot test in order to test the setting and various stu
 The usability test will consist of the following sections:
 
 **Background Questions:** This questionnaire serves to gain information on the user’s experience and past usage of the website to allow us to better understand where they are coming from.
+
 **Pre-test Questions:** This questionnaire serves to gather the user’s initial reactions to the website’s main user interface, the homepage. Questions ask the user about how trustworthy along with how difficult the website looks.
+
 **Tasks:** The user will walk through several tasks, each of which consists of common actions a user of the site might take within the website. Each task along with the heuristic(s) it measures is described below.
+
 **Post-test Questions:** This questionnaire prompts the  user to reflect on how difficult they thought the tasks were to complete, how likely they would take certain steps within a task using the website, and how long they perceived each task to take. It serves to summarize their experience working through the tasks.
+
 **System Usability Scale:** This survey attempts to determine how usable an interface is by prompting the user to select a response from “Strongly Disagree” to “Strongly Agree” for each of ten statements.
+
 **Production Satisfaction Card Selection:** This survey attempts to qualify the interface according to the user’s perception by asking them to select 5 adjectives that they feel best describe the product from a grid of numerous words.
 
 
