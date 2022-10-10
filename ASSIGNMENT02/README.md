@@ -58,6 +58,18 @@ The task will ask the user to identify specific contact information for a partic
 
 
 
+## Test Materials
+
+### Link: [UT for the SCCWRP](https://forms.gle/5exJcCebqmLmRJ1S8)
+
+
+## Video Recording of UT Session
+
+### Link: [Pilot Study Video](https://drive.google.com/file/d/1mYxoCmRj4v0TzjbeDJoA_bCeuXkoloI3/view?usp=sharing)
+
+
+
+
 
 
 
