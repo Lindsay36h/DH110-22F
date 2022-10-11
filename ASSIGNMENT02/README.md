@@ -58,16 +58,21 @@ The task will ask the user to identify specific contact information for a partic
 
 
 
-## Test Materials
+### Test Materials
 
 #### Link: [UT for the SCCWRP Google Form](https://forms.gle/5exJcCebqmLmRJ1S8)
 
 
-## Video Recording of UT Session
+### Video Recording of UT Session
 
 #### Link: [Pilot Test Video](https://drive.google.com/file/d/1mYxoCmRj4v0TzjbeDJoA_bCeuXkoloI3/view?usp=sharing)
 
 
+### Reflection
+
+The pilot test gave me several takeaways both with regard to the design of the test itself and learning how to moderate. As a moderator, I learned that a participant’s reaction to a website can be different than their overall perception of it. For instance, the pilot test participant expressed frustration with several tasks, but when asked about the site’s overall usability, they reported it was easy to use. Additionally, I learned that it can be challenging to prompt a user to narrate their thoughts without asking them any leading questions. At several points, I wanted to know why or why not the participant clicked a particular button without making them think they did something wrong (or right). I think during the tasks themselves I asked more follow-up questions than necessary and even asked a few leading questions. Next time, I should practice observing participant behavior first and foremost.
+
+As for the UT design, I believe the form questions encouraged the participant to give useful, detailed feedback. Additionally, the participant appeared to understand the tasks well along with what each step asked them to do. However, the participant did have some questions on a few of the post-test surveys, so in the future, I think I would prepare more detailed, clearer instructions to give. Furthermore, I had not set a standard number of minutes to allot for each task, so I was unsure when to mark a task as incomplete and move on. For later tests, I will determine an appropriate amount of time to spend on each task, and if the user exceeds the time limit, we will move on. Finally, while the participant did understand the task steps well, I think several steps directed the user on how to navigate the website more than they should have (especially Task 1), so I will rewrite these steps to read more generically.
 
 
 
