@@ -89,7 +89,77 @@ If you have any questions later, you may ask them at any time.
 11. Are there any research websites or databases you try to avoid using or don’t like to use? If so, why?
 
 ### User Activities 15-20min
+ 
+I will now ask you to demonstrate some activities on how you explore environmental research online. When you're doing these tasks, use whatever websites/tools you'd normally use, and please think aloud, narrating your thoughts as you navigate through different pages and processes.
 
+**Activity 1: Find a new research article of interest to you that you would read/use.**
+Could you show me how you might find a new research article that you would read or use?
+    
+1. When presented with the task, what was the first thing you thought to do?
+2. How did you decide what method (or like what tool or resource) to use?
+3. How much time would you spend on an activity like this?
+4. How satisfied are you with the article you found?
+5. Why did you choose this particular website you used?
+    a. Can you say why it seems particularly good or poor?
+6. When searching for articles, do you ever keep a list of articles to look into before deciding if you should save/download them?
+7. Are you satisfied with the method you used for this activity?  How well do these methods work for you?
+     
+
+**Activity 2: Find another research article you would read/use related to the first article of interest.**
+Could you show me how you might find another research article related or relevant to the first one you found?
+    
+1. When presented with the task, what was the first thing you thought to do?
+2. How did you decide what method (or like what tool or resource) to use?
+3. How much time would you spend on this follow-up activity?
+4. How satisfied are you with the second article you found?
+5. Why did you choose this particular website you used?
+    a. Can you say why it seems particularly good or poor?
+6. Are you satisfied with the method you used for this activity?  How well do these methods work for you?
+    
+    
+**Activity 3: Locate data/a dataset related to the articles of interest found.**
+Could you show me how you might locate data or some statistics related to the environment?
+    
+1. When presented with the task, what was the first thing you thought to do?
+2. How did you decide what method (or like what tool or resource) to use?
+3. How much time would you spend on an activity like this?
+4. How satisfied are you with the data you found?
+5. Why did you choose this particular website you used?
+    a. Can you say why it seems particularly good or poor?
+6. When searching for data, like with the articles, do you ever keep a list of datasets to explore further before deciding if you should save/download them?
+7. Are you satisfied with the method you used for this activity?  How well do these methods work for you?
+    
+    
+### User’s Feedback on Satisfaction & Frustrations  <10min
+
+Now that we have completed the activities, I would like to know a little bit more about your satisfaction and/or frustrations with the processes you just went through.
+1. When searching for relevant research online, have you had any significant challenges? Describe them.
+    a. Which websites/tools had these challenges?
+    b. What particular qualities about the website/tool made it particularly difficult?
+2. What are some other, perhaps more minor, frustrations you have experienced while searching for research and/or data online?
+3. What are some general website qualities or functionalities you find useful when doing these processes?
+4. I think you mentioned your preferred methodology/website for finding research earlier. What specific qualities about that method/website do you like?
+5. What is the most helpful article/data quality a search page can display to help you figure out if the article or data would be beneficial to you?
+6. Are you a part of any groups or communities, online or not, that discuss environmental research?
+    a. Within the group, is there a common methodology or preferred website to use to find research?
+
+                                                           
+### User Expectations  <5min
+    
+1. If you could add any feature to an environmental research website, what would you add?
+2. What features do you expect most research sites to have?
+3. Are there any surprising features you have come across when using websites for environmental research? Describe them.
+
+    
+### Wrap-up & Closing
+    
+I've been asking you a lot of questions. Is there anything you would like to ask me?
+I think we are coming to the end of our session today. Before we end the session, are there any final thoughts you would like to express? Any further comments, feedback, or questions?
+Alright, thank you so much for your time and participation today. I very much appreciate it. 
+I’ll share my email with you in case you would like to be in touch for any further questions you have. We will conclude the session now. Thank you again very much for your participation!
+
+    
+    
 ## User Feedback
 
 To be completed
@@ -98,5 +168,6 @@ To be completed
 
 To be completed
 
+                                                           
 
 
