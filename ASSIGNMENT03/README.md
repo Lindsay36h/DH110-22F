@@ -33,6 +33,62 @@ The interview will be conducted over a remote zoom session lasting less than an 
 
 ## Interview Guide
 
+**Date/Time:** 4:30pm PST Friday, 10/18/2022
+**Author:** Lindsay Harrison
+**Session length:** 30-60 minutes
+**Participant Name:** Claire Gwinnett
+**Email:** TBD
+**Location:** Zoom meeting hosted in Los Angeles, California, U.S.A.
+**Compensation:** TBD
+
+### Introduction
+
+Hello! My name is Lindsay Harrison; I’m a UCLA student conducting research for a class project. Thank you very much for agreeing to talk with me today. The insights I will gain from our discussion will help me greatly with the project.
+
+How has your day/weekend been going so far?
+
+The project I am working on is a redesign of an environmental research organization’s website. The purpose of our session today is for me to investigate the website’s target user group, which features adults interested in or involved with environmental research and sustainability. 
+
+Today, I hope to determine how you go about doing tasks related to finding environmental research along with what might best help you to complete these tasks.
+
+SCREENING QUESTION: Are you involved with or have you sought out environmental research in some capacity?
+
+Before we begin, I would like to share some information regarding today’s session: we will video-record the session using Zoom’s meeting recording feature. Recording the session will allow me to review your responses and reactions later when analyzing data and make sure I get all of your responses down right. Thus, I would also ask that you have your camera on throughout the session today, and that you are comfortable sharing your screen over zoom to navigate to some websites.
+
+Given this information, is it okay if I record our session today?
+
+This session will take less than an hour (probably closer to 30 minutes). I will not be evaluating you in any way, but I’ll be learning from you about how you look for information online along with what works and what doesn’t work for you. With this, I hope to improve the website for people like you. This study will be conducted mostly as a discussion. To begin, I will ask you some questions about your interest in the environment and your experiences with environmental research. Next, I will request that you show me how you would go about completing some activities online related to learning about environmental research. I really value learning more about your experiences and gaining any feedback during our activities today, so please feel free to add anything you feel is relevant at any point.
+
+I also want to let you know we can take a break at any time, and you may withdraw from this interview study at any time if you would like to do so.
+
+Do you have any questions before we begin?
+
+If you have any questions later, you may ask them at any time.
+
+
+
+### Background  ~10 min
+
+1. Could you tell me your name, age and occupation?
+2. Can you talk a little bit about your interest in environmental sustainability and what you do related to environmental research?
+3. Why do you look for environmental research articles?
+4. Where do you usually do this task, looking for environmental research? 
+5. What websites/tools/communities do you use for finding articles/data on environmental research?
+    a. Which of these do you use the most?
+    b. When did you first start using it?
+    c. How did you learn about it?
+6. What do you do to collect articles/data of interest? Please describe your process a bit.
+    a. Is this the only {website/method} you use? 
+    b. Is this process often collaborative? If so, describe how this collaboration works.
+    c. How often do you do this process?
+7. When looking through a list of sources, how do you determine what is a good article/datasource for you to explore further?
+    a. <If they do scientific environmental research> How do you decide what articles/data to include in your own research?
+8. How much time (per week) do you spend looking for research/data you are interested in?
+9. How successful are your searches for articles/data online? How challenging/easy is the process?
+10. Do you save/collect these research articles/data? If so, how do you save them and keep track of them?
+11. Are there any research websites or databases you try to avoid using or don’t like to use? If so, why?
+
+### User Activities 15-20min
 
 ## User Feedback
 
