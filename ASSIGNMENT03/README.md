@@ -154,8 +154,11 @@ Now that we have completed the activities, I would like to know a little bit mor
 ### Wrap-up & Closing
     
 I've been asking you a lot of questions. Is there anything you would like to ask me?
+    
 I think we are coming to the end of our session today. Before we end the session, are there any final thoughts you would like to express? Any further comments, feedback, or questions?
+    
 Alright, thank you so much for your time and participation today. I very much appreciate it. 
+    
 I’ll share my email with you in case you would like to be in touch for any further questions you have. We will conclude the session now. Thank you again very much for your participation!
 
     
