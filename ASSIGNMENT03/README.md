@@ -13,13 +13,13 @@ To most effectively redesign the website, I must consider its target audience. T
 
 ### Research Goals
 
-**Better understand the main user motivations and goals related to searching for environmental research.**
+**- Better understand the main user motivations and goals related to searching for environmental research.**
 
-**Determine what website features facilitate the search for relevant research publications.**
+**- Determine what website features facilitate the search for relevant research publications.**
 
-**Determine what website features hinder the search for relevant research publications.**
+**- Determine what website features hinder the search for relevant research publications.**
 
-**Identify what specific article/report information is important to users when searching for relevant research.**
+**- Identify what specific article/report information is important to users when searching for relevant research.**
 
 
 ## Research Methods
