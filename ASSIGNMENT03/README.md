@@ -33,6 +33,8 @@ The interview will be conducted over a remote zoom session lasting less than an 
 
 ## Interview Guide
 
+[Link to Interview Guide](https://docs.google.com/document/d/1rKJSKzLNiYnm10cZD0ytWZ-oLlaO2vi0mhfZXddhxlo/edit?usp=sharing)
+
 **Date/Time:** 4:30pm PST Friday, 10/18/2022
 **Author:** Lindsay Harrison
 **Session length:** 30-60 minutes
