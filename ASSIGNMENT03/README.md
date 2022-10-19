@@ -1,4 +1,4 @@
-# Assignment 3
+# DH110 Assignment 3 - User Research Report
 #### by Lindsay Harrison
 #### DH110 at UCLA
 
