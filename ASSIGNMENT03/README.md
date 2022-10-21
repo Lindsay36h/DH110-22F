@@ -35,19 +35,19 @@ The interview will be conducted over a remote zoom session lasting less than an 
 
 [Link to Interview Guide](https://docs.google.com/document/d/1rKJSKzLNiYnm10cZD0ytWZ-oLlaO2vi0mhfZXddhxlo/edit?usp=sharing)
 
-**Date/Time:** 4:30pm PST Friday, 10/18/2022
+**Date/Time:** 2:30pm PST Friday, 10/21/2022
 
 **Author:** Lindsay Harrison
 
-**Session length:** 30-60 minutes
+**Session length:** ~45 minutes
 
-**Participant Name:** Claire Gwinnett
+**Participant Name:** Taylor Bell
 
-**Email:** TBD
+**Email:** tmb18@humboldt.edu
 
 **Location:** Zoom meeting hosted in Los Angeles, California, U.S.A.
 
-**Compensation:** TBD
+**Compensation:** $25 Amazon gift card
 
 
 ### Introduction
