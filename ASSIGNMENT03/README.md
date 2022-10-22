@@ -174,11 +174,17 @@ I’ll share my email with you in case you would like to be in touch for any fur
     
 ## User Feedback
 
-To be completed
+To summarize what was learned from the interview, I would say finding research articles is a time-consuming process since simple information like keywords do not illustrate an article’s usefulness to a researcher. When searching for articles, researchers rely on the article’s abstract to determine if the article will be of any use to them, and if they will further investigate the article. On a research search page, an article’s title, authors, keywords, and a portion of the abstract are all attractive features of individual articles. Moreover, if an online library or database has a large variety of research that can be accessed from it, website organization of different research topics is helpful; without it, the participant feels lost or overwhelmed by the website. I learned environmental researchers often use NOAA (National Oceanic and Atmospheric Administration) to find data online. The participant mainly uses google scholar and Humboldt State’s library website to find research articles, and while they like both websites, they acknowledge the library website could be better organized and Google Scholar can give many unhelpful results after a search.
+
+### Relevant Links:
+[Interview Recording](https://drive.google.com/file/d/1E_NKe_X7CfBDofuEqMpwPXXL4FTN5gm_/view?usp=sharing)
+[Interview Transcript pt.1  0-30min](https://otter.ai/u/FoL24sblBFSnWjhtrfG5VA7Cdp0)
+[Interview Transcript pt.2  30-47min](https://otter.ai/u/OpGjnwmTOS4BWGJN7IxhP5jCxzM)
+[Interview Notes](https://docs.google.com/document/u/0/d/1Jplmqp5ReQNZksRJzhHNe_Fu3bMo3TOYD85y2ag31x4/edit)
 
 ## Reflection
 
-To be completed
+Overall, I think the interview session went well; the participant did not seem bored and was willing to expand on her thoughts with detail. We managed to work through all questions and activities without interruption, and I learned much about the resources environmental engineers/researchers use along with how they might go about finding such resources. Nevertheless, I think I definitely learned from the experience and would change my approach slightly in the future. Unlike a usability study in which there are less open-ended questions for the participant to respond to, I noticed the participant would often provide much more detailed responses to the questions - almost more so than was necessary. Thus, in the future, I think I would try to work on my time management during the interview and interrupt the participant if they go off-topic. Additionally, I think I came up with more questions than necessary or realistic to the 30-40 minute interview I planned for. In the future, I will have a reduced list of questions and come up with more to ask only after they have answered the main questions. Although the participant spent more time answering each question than I anticipated, the interview went as I expected.
 
                                                            
 
