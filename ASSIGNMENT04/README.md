@@ -3,7 +3,17 @@
 
 
 ## Introduction
-To better understand how I should implement changes to the Southern California Coastal Waters Research Project’s (SCCWRP) website, I need to understand the goals, needs, and motivations of the website’s target users, along with the specific challenges and frustrations they face. I began my investigation of the target users by interviewing an environmental researcher. Now, I will better define this user group through UX storytelling. By creating user personas and describing a probable scenario they would face, I can better understand the user’s perspective and remove bias that may have been present in my user interview.
+To better understand how I should implement changes to the Southern California Coastal Waters Research Project’s (SCCWRP) website, I need to understand the goals, needs, and motivations of the website’s target users, along with the specific challenges and frustrations they face. I began my investigation of the target users by interviewing an environmental researcher. Now, I will better define this user group through UX storytelling. By creating user personas and describing a probable scenario they would face, I can better understand the user’s perspective and remove bias that may have been present in my user interview. For the website’s redesign, I will implement two tasks:
+
+#### Task 1: Search for relevant research articles
+
+This task will involve the website’s search functionality for publications and feature a more advanced ability to filter and organize search results. A user would enter keywords and specify publication type and genre before clicking a submit button, and looking through the results.
+
+#### Task 2: Navigate to a relevant database
+
+This task will center around an improved organization of the website. I will create a centralized databases page with links to subpages as well as links to the most popular databases presented at the top of the databases page. A user would search through these pages to find a database they are interested in.
+
+Both tasks will be relevant to the personas I have created and will be present in their user scenarios.
 
 
 ## Personas & Empathy Maps
