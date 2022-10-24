@@ -14,7 +14,7 @@ To better understand how I should implement changes to the Southern California C
 
 #### Alex's Empathy Map
 
-![Alex's Empathy Map](../Alex_Empathy_Map.png)
+![Alex's Empathy Map](../Alex_Empathy_Map.png | width=200)
 
 
 
@@ -24,7 +24,7 @@ To better understand how I should implement changes to the Southern California C
 
 #### Trent's Empathy Map
 
-![Trent's Empathy Map](../Trent_Empathy_Map.png)
+![Trent's Empathy Map](../Trent_Empathy_Map.png | width=200)
 
 
 ## Scenarios & User Journey Maps
