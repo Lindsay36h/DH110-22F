@@ -1,4 +1,4 @@
-# Assignment 5
+# Assignment 4
 #### by Lindsay Harrison in DH110 at UCLA
 
 
@@ -10,13 +10,21 @@ To better understand how I should implement changes to the Southern California C
 
 ### Alex Laurier - Environmental health specialist for ventura county
 
+![Alex's Persona](../Alex_Persona.png)
+
 #### Alex's Empathy Map
+
+![Alex's Empathy Map](../Alex_Empathy_Map.png)
 
 
 
 ### Trent Ansari - Graduate student working toward Environmental Studies PhD
 
+![Trent's Persona](../Trent_Persona.png)
+
 #### Trent's Empathy Map
+
+![Trent's Empathy Map](../Trent_Empathy_Map.png)
 
 
 ## Scenarios & User Journey Maps
@@ -35,6 +43,8 @@ After reading the article, Alex decides she wants to take a more in-depth look a
 
 #### Alex’s User Journey Map
 
+![Alex's User Journey Map](../Alex_UserJourney_Map.png)
+
 
 ### Trent Ansari
 
@@ -50,7 +60,7 @@ Trent knows his project will focus most heavily on the local lifeforms and ocean
 
 #### Trent's User Journey Map
 
-
+![Trent's User Journey Map](../Trent_UserJourney_Map.png)
 
 
 ## Reflection
