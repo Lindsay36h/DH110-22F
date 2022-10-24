@@ -1,4 +1,4 @@
-# Assignment 4
+# DH110 Assignment 4 - UX Storytelling
 #### by Lindsay Harrison in DH110 at UCLA
 
 
