@@ -22,27 +22,45 @@ From my observations and ideas surrounding this user group, I created two person
 The website currently consists of a home page along with the following subsections: About, Staff, Governance, Publications, Data, Contact. These pages each have various linked subpages that cannot be found within the website’s navigation bar. Considering the user needs within the website along with the pain points expressed within the user research interview and synthesized from the personas, I have determined how to improve the implementation of these three functions:
 
 1.Easily access the SCCWRP’s research
+
   a. Improve general organization
+  
       i. Display latest publications more clearly and place them closer to the top of the Home page/Publications page.
+      
       ii. Re-style the Home and Publications pages, so they do not appear to have blocks of plain text as this may be overwhelming.
+      
       iii. Include clear links to research topic pages at the top of the Publications page.
+      
       iv. Include dropdown menus within the navigation bar.
+      
   b. Clearer search functionality
+  
       i. Redesign the search box and its functionality such that there is only one Search button and multiple filters may be chosen.
+      
       ii. Include a ‘history’ functionality such that the user can easily return to previously viewed articles without error.
+      
   c. Share publications
+  
       i. Include an icon next to each article so researchers can send a link to an article to an inputted email or linked google drive.
       
 2. Review the SCCWRP’s research plan for the year along with their current and past Requests for Proposals
+
   a. Make easily accessible from home page
+  
       i. Finding these documents is difficult and unclear within the website when they are both significant. Thus, they should be included in the home page and should be clearly found through the navigation bar.
+      
   b. Write summary of information on a relevant page then provide links//better organization
+  
       i. Currently, there is no text introducing the SCCWRP’s research plan on the website; this would be more user-friendly.
       
 3. Find external environmental data resources
+
   a. Improve general organization and clarity
+  
       i. Re-design the Data page such that different types of data resources appear distinct from one another.
+      
       ii. Include a display of sub-pages within the site’s Data section and include a drop-down menu within the navigation bar displaying these sub-pages.
+      
       
       
       
@@ -158,12 +176,12 @@ Based on what I learned from the prototype testing, I have identified two user p
     
 PAIN POINT 1: Redesigning the research page.
 
-![Research Page design 2](../Wireframes Redesign.png)
+![Research Page design 2](../WireframesRedesign.png)
 
 
 PAIN POINT 2: Redesigning the RFPS page.
 
-![RFPs Page design 2](../Wireframes Redesign_2.png)
+![RFPs Page design 2](../WireframesRedesign_2.png)
 
 
 [View the redesigned wireframes in more depth here.](https://docs.google.com/presentation/d/1gE5VhjqKuWzoEAxvut25vJpeqkhbw36oiluVrH2JMW4/edit?usp=sharing)
