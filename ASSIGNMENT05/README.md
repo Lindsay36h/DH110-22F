@@ -21,7 +21,7 @@ From my observations and ideas surrounding this user group, I created two person
 
 The website currently consists of a home page along with the following subsections: About, Staff, Governance, Publications, Data, Contact. These pages each have various linked subpages that cannot be found within the website’s navigation bar. Considering the user needs within the website along with the pain points expressed within the user research interview and synthesized from the personas, I have determined how to improve the implementation of these three functions:
 
-1.Easily access the SCCWRP’s research
+**1.Easily access the SCCWRP’s research**
 
   a. Improve general organization
   
@@ -43,7 +43,7 @@ The website currently consists of a home page along with the following subsectio
   
       i. Include an icon next to each article so researchers can send a link to an article to an inputted email or linked google drive.
       
-2. Review the SCCWRP’s research plan for the year along with their current and past Requests for Proposals
+**2. Review the SCCWRP’s research plan for the year along with their current and past Requests for Proposals**
 
   a. Make easily accessible from home page
   
@@ -53,7 +53,7 @@ The website currently consists of a home page along with the following subsectio
   
       i. Currently, there is no text introducing the SCCWRP’s research plan on the website; this would be more user-friendly.
       
-3. Find external environmental data resources
+**3. Find external environmental data resources**
 
   a. Improve general organization and clarity
   
