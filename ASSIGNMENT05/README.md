@@ -90,21 +90,21 @@ The wireframes included in the slideshow include basic designs for the website�
 
 ![All flows](../DH110_wireflow.png)
 
-#### Flow 1
+### Flow 1
 
 ![Flow 1](../flow1.png)
 
 As depicted in Trent’s user scenario, the flow intends for the user to search for a research publication falling into specific categories (for example, a journal article dealing with bioassessment). The user begins by navigating to the research search page. Here, they are presented with all publications by the SCCWRP starting with the most recent. However, they can search through the SCCWRP’s database using the search box at the top of the page. Users have the option to type a phrase to search by, or filter the article by topic, using the topic dropdown selection, and by publication type, using the type dropdown selection. After they have fulfilled these inputs, they click the ‘Search’ button, and a list of articles by the SCCWRP falling into these categories will appear. A user can then click on the box containing the article name and view more details about the article on a page dedicated to that article. This page also contains a ‘back’ button where the user can return to the search results.
 
 
-#### Flow 2
+### Flow 2
 
 ![Flow 2](../flow2.png)
 
 As depicted in Alex’s user scenario, the flow intends for the user to send the most recent publication to someone. The journey again begins with the user navigating to the research page. Before using the search box, the page’s default state lists all SCCWRP research publications from newest to oldest, so their most recent publication is located at the top of the list under ‘All Publications.’ Having located the most recent research, the user can click on the email icon to the right. This opens a pop-up where the user can enter at least someone else’s email to send a link to the publication to. After filling out the sender’s information, clicking ‘Send’ will send the email and return the user to the research search page, without the popup. It is worth noting there is an ‘X’ on the popup. Clicking this would also return the user to the research search page without sending the email.
 
 
-#### Flow 1 & 2 Features Description
+### Flow 1 & 2 Features Description
 
 **Search Box:** Users can type up words or phrases that may match with SCCWRP publications.
 
@@ -123,7 +123,7 @@ As depicted in Alex’s user scenario, the flow intends for the user to send the
 **Access Full Document Button:** Opens a new page, sending users to the webpage of the journal the article was published in.
 
 
-#### Flow 3
+### Flow 3
 
 ![Flow 3](../flow3.png)
 
@@ -132,7 +132,7 @@ Since a big user group for the website includes independent environmental resear
 After entering an individual RFP’s page, the user can email a link containing a description of the RFP to an inputted email address by clicking the email icon. This displays a popup similar to the popup for emailing a research article; the user can give the necessary email information and click ‘Send’ to send the email.
 
 
-#### Flow 3 Features Description
+### Flow 3 Features Description
 
 **View next bidder’s meeting button:** Takes the user to the site’s Meetings page.
 
