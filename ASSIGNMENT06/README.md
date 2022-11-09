@@ -154,5 +154,8 @@ Throughout the design process, I kept the ideas of clarity and simplicity in min
 
 ## Reflection
 
+Overall, I found the process of interface design to be enjoyable but more time-consuming than I would have initially expected. Especially with the color scheme, I found I had a lot of ideas I could try out though I only had a limited time to explore what might look good. As I gain experience with design, I am assuming the process would go faster as I would better understand what styles I should use. Additionally, in the future, I think I would use other well-designed environmental organization websites or government websites as references for the design. I only realized this would be a good idea after I had already determined some design aspects, but I think I should analyze websites with good design before I start the design process. However, I do think I chose suitable fonts, button shapes, and colors to consider in my design process, and I had a good direction in creating the home screen based on how I had defined the user goals in previous assignments.
+
+
 
 
