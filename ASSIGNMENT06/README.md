@@ -16,17 +16,19 @@ To improve the Southern California Coastal Water Research Projects’s website, 
 
 [Digitized Wireflow](https://www.figma.com/file/iT6y4RFBslbaPMLKNauFgU/DH110-a5?node-id=0%3A1)
 
-[Digitized Lo-Fi Wireflow](https://www.figma.com/proto/iT6y4RFBslbaPMLKNauFgU/DH110-a5?node-id=38%3A1795&scaling=scale-down&page-id=38%3A1794&starting-point-node-id=38%3A1795)
+[Digitized Lo-Fi Prototype](https://www.figma.com/proto/iT6y4RFBslbaPMLKNauFgU/DH110-a5?node-id=38%3A1795&scaling=scale-down&page-id=38%3A1794&starting-point-node-id=38%3A1795)
 
 
 After previously determining how these tasks would function within the website by creating a wireflow, I will now determine a more polished design for the website. In this part of the project, I will explore different typography, shape, and color variations for the website’s home page (see wireframe version below). The purpose of interface design is to translate wireframes into more finalized, polished designs by utilizing graphic design principles. These designs will later be part of a high-fidelity prototype resembling the finished product. To complete the process of interface design, I used Figma as my design tool and the MacBook Pro 14” screen size to frame the overall design. After determining a design I was satisfied with, I conducted an impression test and ran an accessibility test to determine how my designs could be improved.
 
 
-#### SCCWRP Home Page Wireframe
+[Figma Full Design Page](https://www.figma.com/file/OY3VXN8Be64MsOgbQiatGE/DH110-a6?node-id=0%3A1)
+
+
+### SCCWRP Home Page Wireframe
 
 ![SCCWRP Home Page Wireframe](../Home.png)
 
-[Figma Full Design Page](https://www.figma.com/file/OY3VXN8Be64MsOgbQiatGE/DH110-a6?node-id=0%3A1)
 
 
 
@@ -96,12 +98,12 @@ To ensure my design was accessible, I ran a color-contrast check of all the diff
 After adjusting the accent colors, I ran the contrast checking tool again on all color combinations. All combinations had a ratio of at least 4.5:1, thus satisfying the WCAG 2.0 AA accessibility requirement for webpages. The detailed results are shown below.
 
 
-#### Light Mode
+### Light Mode
 
 ![Accessibility ratios for light mode](../accessibility1.png)
 
 
-#### Dark Mode
+### Dark Mode
 
 ![Accessibility ratios for dark mode](../accessibility2.png)
 
@@ -111,6 +113,7 @@ After adjusting the accent colors, I ran the contrast checking tool again on all
 After coming up with a nearly finalized design, I decided to learn how my design would be perceived by others by conducting a quick impression test on a user. In an impression test, the researcher flashes their design on-screen for five seconds without warning the user beforehand how long they will be looking at the design. Once the five seconds are up, the researcher asks the participant what they thought of the design, what words or graphics they remember, and anything that came to mind while they had viewed the design. The test is well suited for understanding the look and feel of the design. Below are two links, one is a test link where you can try out the test similarly to how the participant did the test with me, and the other link leads to a video showcasing my experience conducting this test.
 
 [Test Link](https://app.usabilityhub.com/do/192579713d57/3f34)
+
 [Test Video](https://drive.google.com/file/d/1_LCej-U7pmrCed5RnvtsGxTCMxCYYtR9/view?usp=sharing)
 
 #### Summary of Findings
@@ -126,9 +129,11 @@ To finalize my designs, I used the drop shadow feature on the buttons and floati
 
 Throughout the design process, I kept the ideas of clarity and simplicity in mind. I wanted the website to feel easy to use and informative, so I made sure texts had a high contrast ratio, and that the eye was drawn appropriately to on-screen information with the use of buttons and graphics. Professionalism was another central idea I kept in mind while creating the website; while I wanted it to be easy to use and cater to several types of users, it needed to be professional-looking and somewhat understated as a government-sponsored website. Ultimately, I am satisfied with the results of the interface design process and believe the design to fall in line with these ideas.
 
-#### Final Design
+### Final Design Light Mode
 
 ![Final Design Light Mode](../SCCWRP_Home.png)
+
+### Final Design Dark Mode
 
 ![Final Design Dark Mode](../SCCWRP_Home_Dark.png)
 
