@@ -86,11 +86,11 @@ Based on the feedback from the cognitive walkthrough, I learned that my website�
 
 1. Touch up the dropdown menu navigation:
 
-  a. Ensure is fully functional on all pages
+      a. Ensure is fully functional on all pages
   
-  b. Change the ‘Research’ tab to be titled ‘Publications’ instead
+      b. Change the ‘Research’ tab to be titled ‘Publications’ instead
   
-  c. Make the areas of research more distinguishable from the general research pages
+      c. Make the areas of research more distinguishable from the general research pages
   
 2. Make the back button placement consistent across all pages and bolder
 
