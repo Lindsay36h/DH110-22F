@@ -58,7 +58,43 @@ Although both mobile and website versions of the SCCWRP’s interface were desig
 
 ## Cognitive Walkthrough
 
-TBD - in-class activity
+To determine the effectiveness of the user flow designed in the high-fidelity prototype, I conducted a cognitive walkthrough with two peers. In a cognitive walkthrough, users are presented with the tasks a prototype is able to complete, and they are asked questions about their overall impression of the prototype, how well they understand the prototype’s feedback along with their progression through the task, and how the user flow and design may be improved. A cognitive walkthrough is useful for investigating if a user can identify goals within the prototype, identify action items, and to see if they can connect subgoals with action items as they progress through a task.
+
+#### Cognitive Walkthrough Data
+![cognitive walkthrough data table](../cwdata.png)
+
+#### Comments Written on the Prototype
+
+##### Participant 1
+
+* “the dropdown interaction is very nice—some of boxes are a little bit too big when trying to navigate to another menu item”
+* “perhaps rename the menu item [‘Research’] as articles instead?”
+* (about the back button)“small detail, but it is distorted”
+* (about the back button) “put back button more to the left”
+* “make the connect header slightly bigger/bolder so that it is more noticeable”
+
+##### Participant 2
+
+* (in some whitespace at the top of the homepage)”Adding a direct link to the publications here”
+* (about the back arrow)”this arrow looks very stretched”
+* (noticing navigation dropdown at the top of a page)”transparency of dropdown doesn't match the rest”
+
+
+#### Takeaways
+
+Based on the feedback from the cognitive walkthrough, I learned that my website’s design comes off overall as clean and professional. However, their feedback highlighted some slight adjustments I should make to improve ease of navigation and clarity. Thus, I will make the following adjustments before I move on to usability testing:
+
+1. Touch up the dropdown menu navigation:
+
+  a. Ensure is fully functional on all pages
+  
+  b. Change the ‘Research’ tab to be titled ‘Publications’ instead
+  
+  c. Make the areas of research more distinguishable from the general research pages
+  
+2. Make the back button placement consistent across all pages and bolder
+
+3. Add a direct link to research publications at the top of the home page
 
 
 ## Usability Testing
