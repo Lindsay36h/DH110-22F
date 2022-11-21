@@ -44,8 +44,34 @@ The website currently consists of a home page along with the following subsectio
 
 These wireframes were used to form a [low-fidelity prototype](https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT05) of a new version of the website. The purpose of creating a low-fidelity prototype is to create and test a new design for a product based on the user goals and pain points previously defined. Additionally, low-fidelity prototypes allow the development team to determine how the product should be designed before extensive time and resources are allotted to creating a functional, more detailed product prototype. Producing and testing a low-fidelity prototype allows the design process to be more iterative and thus produce a better-tested final product later.
 
+#### Website Wireflow - Lo-Fi Prototype
+
+![All flows](DH110_wireflow.png)
+
 
 After determining how these tasks would function within the website by creating a wireflow, I next had to determine a more polished design for the website. In an [exploration of the design interface](https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT06), I explored different typography, shape, and color variations for the website’s home page. The purpose of interface design is to translate wireframes into more finalized, polished designs by utilizing graphic design principles. These designs will later be part of a high-fidelity prototype resembling the finished product. To complete the process of interface design, I used Figma as my design tool and the MacBook Pro 14” screen size to frame the overall design. After determining a design I was satisfied with, I conducted an impression test and ran an accessibility test to determine how my designs could be improved.
+
+#### Style Guide
+
+##### Light Mode
+![Final Design Light Mode](SCCWRP_Home.png)
+
+##### Dark Mode
+![Final Design Dark Mode](SCCWRP_Home_Dark.png)
+
+##### Typography
+
+![Final Design typography](Final_Typography.png)
+
+##### Button Shape
+
+![Final Design button shape](Final_Shape.png)
+
+##### Color Scheme
+
+![Final Design color scheme](Final_color.png)
+
+
 
 Finally, I moved forward to create a [high-fidelity prototype](https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT07) of the website using Figma. The purpose of creating a high-fidelity prototype is to better visualize how information and elements appear on screen and to better understand the interactive components of the site and how exactly the user flow will function. Thus, after determining a design style for the website, I applied my designs to additional pages previously defined in the low-fidelity prototype and connected the pages through buttons and transitional animations to create an interactive high-fidelity prototype.
 
@@ -56,6 +82,9 @@ Similar to the tasks designed in the low-fidelity prototype, the tasks the inter
 **TASK 2: Find a recent publication and email it to someone (a coworker).**
 
 **TASK 3: Determine the presently available Requests for Proposals and submit your contact information to be added to the bider’s list.**
+
+#### Website Wireflow - Hi-Fi Prototype
+![website wireflow full view](webflow.png)
 
 
 ### Evaluation
