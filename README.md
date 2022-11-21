@@ -25,12 +25,12 @@ This task will center around an improved organization of the website. I will cre
 
 #### Personas & Empathy Maps
 
-![Alex's Persona](../Alex_Persona.png)
-![Alex's Empathy Map](../Alex_Empathy_Map2.png)
+![Alex's Persona](Alex_Persona.png)
+![Alex's Empathy Map](Alex_Empathy_Map2.png)
 
 
-![Trent's Persona](../Trent_Persona.png)
-![Trent's Empathy Map](../Trent_Empathy_Map2.png)
+![Trent's Persona](Trent_Persona.png)
+![Trent's Empathy Map](Trent_Empathy_Map2.png)
 
 
 
