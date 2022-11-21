@@ -6,8 +6,6 @@
 
 The Southern California Coastal Water Research Project (SCCWRP) is responsible for researching marine waters and setting guidelines for the state. With such an important responsibility, it is integral they communicate and organize their research effectively. However, upon reviewing their website, I believe their site could improve to better share their findings with the public along with the institutions using their guidelines. With my UX design, I hope to improve their site's overall layout, facilitate navigation for users less expereinced with technology, and make the site more digestible for individuals curious about thier findings. As the site deals with state guidelines, the public should be able to easily navigate the site and deduce the main points of their research.
 
-[]()
-
 
 ### Research
 
@@ -23,6 +21,16 @@ This task will involve the website’s search functionality for publications and
 
 **Task 2: Navigate to a relevant database**
 This task will center around an improved organization of the website. I will create a centralized databases page with links to subpages as well as links to the most popular databases presented at the top of the databases page. A user would search through these pages to find a database they are interested in.
+
+
+#### Personas & Empathy Maps
+
+![Alex's Persona](../Alex_Persona.png)
+![Alex's Empathy Map](../Alex_Empathy_Map2.png)
+
+
+![Trent's Persona](../Trent_Persona.png)
+![Trent's Empathy Map](../Trent_Empathy_Map2.png)
 
 
 
@@ -52,4 +60,12 @@ Similar to the tasks designed in the low-fidelity prototype, the tasks the inter
 
 ### Evaluation
 
+To evaluate the high fidelity prototype, I conducted several usability studies, based on [one I had earlier designed and pilotted](https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT02) during the project. After updating the earlier usability test design to reflect better on what I had discovered and designed, the [usability tests](https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT07) revealed several important insights, which I used to further iterate on the design.
+
+This section will be further completed at a later date.
+
+
+
 ### Presentation
+
+This section will be further completed at a later date.
