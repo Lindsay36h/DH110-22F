@@ -30,9 +30,9 @@ This task will center around an improved organization of the website. I will cre
 
 The website currently consists of a home page along with the following subsections: About, Staff, Governance, Publications, Data, Contact. These pages each have various linked subpages that cannot be found within the website’s navigation bar. In beginning the website’s redesign, I created wireframes and a wireflow for two specific tasks that fall within the three general website functions. These tasks will be:
 
-* Search for a recent article assessing the sea life in California’s coastal waters (relevant to 1 & Trent’s User Scenario)
-* Find a the most recent publication and send it to a coworker (relevant to 1 & Alex’s User Scenario)
-* Determine the presently available Requests for Proposals and submit your contact information to be added to the bider’s list (relevant to 2)
+* Search for a recent article assessing the sea life in California’s coastal waters
+* Find a the most recent publication and send it to a coworker
+* Determine the presently available Requests for Proposals and submit your contact information to be added to the bider’s list
 
 These wireframes were used to form a [low-fidelity prototype](https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT05) of a new version of the website. The purpose of creating a low-fidelity prototype is to create and test a new design for a product based on the user goals and pain points previously defined. Additionally, low-fidelity prototypes allow the development team to determine how the product should be designed before extensive time and resources are allotted to creating a functional, more detailed product prototype. Producing and testing a low-fidelity prototype allows the design process to be more iterative and thus produce a better-tested final product later.
 
