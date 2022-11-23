@@ -101,7 +101,11 @@ Based on the feedback from the cognitive walkthrough, I learned that my websiteâ
 
 Before conducting the usability tests, I updated my prototype according to the above altercations. [View the updated wireflow in the figma workspace.](https://www.figma.com/file/xzR7iIfVUL9oAgz11oa84v/DH110-a7?node-id=0%3A1&t=5wJErWpROir2SBKx-1) Since the two main pages altered were the home page (note the navigation bar and third button near the page's top) and individual research article page (note the placement of the back button), I have included the updated designs below:
 
+##### Updated Home Page
+
 ![updated home page](../home_v2.png)
+
+##### Updated Article Page
 
 ![updated article page](../article_pg.png)
 
