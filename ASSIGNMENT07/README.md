@@ -138,11 +138,17 @@ In the first task, I noticed she seemed to struggle to read the abstract’s tex
 
 Although my sample size was small (n=2), I thought both participants had adequate experience with environmental research in different contexts and provided valuable insight into my design.
 
+
 **Age Range:** 21-24
+
 **Gender Identity:** Both identified as female
+
 **Language:** English was the primary language for both participants
+
 **Task Completion:** 100% - All participants could complete all tasks
+
 **System Usability Scale (SUS) Score:** 64.17 (based on in-class calculation method where the average of all scores was found before dividing by 6 and multiplying by 100)
+
 **Production Satisfaction Card Summary:**
 [An interactive view.](https://voyant-tools.org/?corpus=f82497844fe2f72704bd53451d625819&view=Cirrus)
 
