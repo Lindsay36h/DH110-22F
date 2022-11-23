@@ -157,6 +157,15 @@ From the results of the usability tests, I had the impression my website was fun
 * The second participant struggled to read the abstract text on the Individual Article Page, so I decided to resize the set text size for the abstract text box.
 
 
+##### Updated Search Publications Page
+
+![updated search publications page](../research_v3.png)
+
+##### Updated Individual Article Page
+
+![updated individual article page](../article_pg_v3.png)
+
+
 
 ## Reflection
 
