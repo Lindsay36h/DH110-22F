@@ -110,7 +110,7 @@ Before conducting the usability tests, I updated my prototype according to the a
 ![updated article page](../article_pg.png)
 
 
-Two usability tests were conducted. One was purely over Zoom, and the other was in-person, though the tested user still recorded their reactions and screen using Zoom. The in-person test was conducted in a public setting, specifically in a Starbucks cafe. A link to the usability testing form can be found here. The testing form follows the same format as the initial pilotted usability test although the tasks themselves are different and follow those described above. The tasks for finding and sharing research were preserved, though the task for finding data was removed, and the task for exploring Requests for Proposals was introduced.
+Two usability tests were conducted. One was purely over Zoom, and the other was in-person, though the tested user still recorded their reactions and screen using Zoom. The in-person test was conducted in a public setting, specifically in a Starbucks cafe. [A link to the usability testing form can be found here.](https://docs.google.com/forms/d/e/1FAIpQLScv4eID_0svqsBH-taQrM7sIhTfMAM5owBKkEO1gdarsTV1eQ/viewform?usp=sf_link) The testing form follows the same format as the initial pilotted usability test although the tasks themselves are different and follow those described above. The tasks for finding and sharing research were preserved, though the task for finding data was removed, and the task for exploring Requests for Proposals was introduced.
 
 ### First Usability Test - 5:30pm PST  11/21/22 (~25min)
 
