@@ -177,6 +177,10 @@ From the results of the usability tests, I had the impression my website was fun
 
 
 
+[See updated design in the figma workspace.](https://www.figma.com/file/xzR7iIfVUL9oAgz11oa84v/DH110-a7?node-id=0%3A1&t=5wJErWpROir2SBKx-1)
+
+
+
 ## Reflection
 
 (11/16/2022)
