@@ -142,7 +142,7 @@ Although my sample size was small (n=2), I thought both participants had adequat
 **Production Satisfaction Card Summary:**
 [An interactive view.](https://voyant-tools.org/?corpus=f82497844fe2f72704bd53451d625819&view=Cirrus)
 
-![production satisfaction card popular words visualization](../ut_words.png)
+![production satisfaction card popular words visualization](../ut_words2.png)
 
 The top two adjectives chosen were calm and professional. While the first participant was explaining her selection of descriptive words, she said she chose words like calm, professional, and reliable since the website seemed informational and an interface to be used for work or school. When asked about choosing the professional adjective, the second participant commented she thought the website felt safe, and when asked about the “calm” adjective, the participant commented the website did not overload her with information - she was not afraid of getting lost within the website.
 
