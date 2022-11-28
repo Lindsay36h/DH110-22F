@@ -80,14 +80,49 @@
       border: 1px solid #174C4F;
       border-radius: 10px;
       font-family: Montserrat, Roboto, sans-serif;
-      text-align: left;
+      text-align: center;
       color: white;
+      margin: auto;
       padding: 14px;
     }
 
   </style>
 
   <body>
+    <!-- navigation -->
+    <div class="card text-center">
+      <div class="card-header">
+        <ul class="nav nav-pills card-header-pills">
+          <li class="nav-item">
+            <a class="nav-link active" href="#comp_analysis">Competitor Analysis</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="#user_research">User Research</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="#ux_storytelling">UX Storytelling</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="#lofi">Low-Fidelity Prototype</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="#design">Interface Design</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="#hifi">High-Fidelity Prototype</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="#redesign">Revisions</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="#pitch">Pitch Video</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+
+
     <!-- body element always have header, main, and footer elements -->
     <header>
       <div class="jumbotron" id="myHeader">
@@ -122,20 +157,29 @@
         <div class="row">
 
           <div class="col-sm">
-            <h3 class="myH3">The Problem</h3>
-            <p class="mytxt">For the project, the main issues I considered were:</p>
-            <ul class="mylist">
-              <li class="mytext"><b class="mybold">Difficult general navigation</b> - several relevant pages are somewhat hidden, and the navigation bar appears overwhelming.<br></li>
+            <div class="card">
+              <div class="card-body">
+                <h3 class="myH3">The Problem</h3>
+                <p class="mytxt">For the project, the main issues I considered were:</p>
+                <ul class="mylist">
+                  <li class="mytext"><b class="mybold">Difficult general navigation</b> - several relevant pages are somewhat hidden, and the navigation bar appears overwhelming.<br><br></li>
 
-              <li class="mytext"><b class="mybold">Awkward search functionality</b> - buttons do not follow button design conventions, difficult to read article titles, difficult to go back to previous search results.<br></li>
+                  <li class="mytext"><b class="mybold">Awkward search functionality</b> - buttons do not follow button design conventions, difficult to read article titles, difficult to go back to previous search results.<br><br></li>
 
-              <li class="mytext"><b class="mybold">Cluttered page organization and lack of clarity</b> - many large text paragraphs clumped together, lack of eye-catching elements.<br></li>
-            </ul>
+                  <li class="mytext"><b class="mybold">Cluttered page organization and lack of clarity</b> - many large text paragraphs clumped together, lack of eye-catching elements.<br><br></li>
+                </ul>
+              </div>
+            </div>
+
           </div>
           <div class="col-sm">
-            <h3 class="myH3">The Solution</h3>
+            <div class="card">
+              <div class="card-body">
+                <h3 class="myH3">The Solution</h3>
 
-            <p class="mytxt">Improving the website’s navigation is important since they have a variety of information and functionality different users need to find. Additionally, improving search functionality and page clarity will make finding research easier and the site’s detailed information easier to digest. Thus, in this project, I set out to create a clearer, more eye-catching page design, a search page that better follows known website conventions, and an improved navigation bar and system.</p>
+                <p class="mytxt">Improving the website’s navigation is important since they have a variety of information and functionality different users need to find. Additionally, improving search functionality and page clarity will make finding research easier and the site’s detailed information easier to digest. Thus, in this project, I set out to create a clearer, more eye-catching page design, a search page that better follows known website conventions, and an improved navigation bar and system.</p>
+              </div>
+            </div>
 
           </div>
         </div>
@@ -144,7 +188,7 @@
       </div>
 
       <!-- Competitor Analysis -->
-      <div class="container">
+      <div class="container" id="comp_analysis">
         <div class="row">
           <h2 class="myH2">Competitor analysis</h2>
 
@@ -159,17 +203,20 @@
 
         <!-- Heuristic Eval -->
         <div class="row">
-          <h3 class="myH3">Heuristic Analysis</h3>
+          <div class="card">
+            <img src="screenshot4.png" class="card-img-top" alt="Heuristic Analysis Snapshot">
+            <div class="card-body">
+              <h3 class="myH3">Heuristic Analysis</h3>
+              <p class="mytxt">To identify potential design flaws, I conducted a heuristic evaluation where I analyzed the SCCWRP’s website according to how well it followed Nielson’s 10 Heuristics for System Usability. I then performed the same analysis on a similar website - Ocean Visions, an organization connecting companies with current environmental research on a larger scale.</p>
 
-          <img src="screenshot4.png" height="50%" class="card-img-top" alt="Heuristic Analysis Snapshot">
+              <p class="mytxt">From my analysis, I found Ocean Visions could improve its navigation system by better labeling its pages, and it could display more descriptive error messages when pages fail to load. However, there were no major usability issues for any one heuristic. On the other hand, the SCCWRP had major usability issues with regard to its navigation system (user control and freedom heuristic) and page clarity and organization (consistency and standards heuristic).</p>
 
-          <p class="mytxt">To identify potential design flaws, I conducted a heuristic evaluation where I analyzed the SCCWRP’s website according to how well it followed Nielson’s 10 Heuristics for System Usability. I then performed the same analysis on a similar website - Ocean Visions, an organization connecting companies with current environmental research on a larger scale.</p>
+              <p class="mytxt">This analysis helped me to identify possible design solutions to the SCCWRP website’s issues, but before I could begin implementing these solutions, I would need to have actual users confirm these design problems.</p>
 
-          <p class="mytxt">From my analysis, I found Ocean Visions could improve its navigation system by better labeling its pages, and it could display more descriptive error messages when pages fail to load. However, there were no major usability issues for any one heuristic. On the other hand, the SCCWRP had major usability issues with regard to its navigation system (user control and freedom heuristic) and page clarity and organization (consistency and standards heuristic).</p>
+              <a class="btn btn-primary" href="https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT01" role="button">Read More</a>
 
-          <p class="mytxt">This analysis helped me to identify possible design solutions to the SCCWRP website’s issues, but before I could begin implementing these solutions, I would need to have actual users confirm these design problems.</p>
-
-          <a class="btn btn-primary" href="https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT01" role="button">Read More</a>
+            </div>
+          </div>
         </div>
 
         <br>
@@ -177,27 +224,34 @@
 
         <!-- Usability Test Pilot -->
         <div class="row">
-          <h3 class="myH3">Usability Testing</h3>
+          <div class="card">
+            <img src="screenshot3.png" class="card-img-top" alt="Usability Testing Snapshot">
+            <div class="card-body">
+              <h3 class="myH3">Usability Testing</h3>
 
-          <img src="screenshot3.png" height="50%" class="card-img-top" alt="Usability Testing Snapshot">
+              <p class="mytxt">Following my heuristic analysis, I pilotted a usability test featuring four tasks SCCWRP users were likely to engage in. This pilot usability test would help me to not only confirm issues found in the heuristic analysis, but to explore other potential issues as well.</p>
 
-          <p class="mytxt">Following my heuristic analysis, I pilotted a usability test featuring four tasks SCCWRP users were likely to engage in. This pilot usability test would help me to not only confirm issues found in the heuristic analysis, but to explore other potential issues as well.</p>
+              <p class="mytxt">The four tasks implemented in the usability test included: use search functionality to search for a research article, navigate to a relevant database, find information on public meetings, and find a researcher’s contact information. Moderating the usability test gave me insight as to how I should interact with and learn from participants.</p>
 
-          <p class="mytxt">The four tasks implemented in the usability test included: use search functionality to search for a research article, navigate to a relevant database, find information on public meetings, and find a researcher’s contact information. Moderating the usability test gave me insight as to how I should interact with and learn from participants.</p>
-
-          <a class="btn btn-primary" href="https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT02" role="button">Read More</a>
+              <a class="btn btn-primary" href="https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT02" role="button">Read More</a>
+            </div>
+          </div>
         </div>
         <br>
         <br>
       </div>
 
+
+
+
+
       <!-- User Research -->
-      <div class="container">
+      <div class="container" id="user_research">
         <h2 class="myH2">User Research</h2>
 
 
-        <img src="screenshot2.png" height="50%" class="card-img-top" alt="User Research Snapshot">
-
+        <img src="screenshot2.png" class="card-img-top" alt="User Research Snapshot">
+        <br><br>
         <p class="mytxt">Once the design problems were properly identified, I set out to find a potential solution. To begin this process, I needed to better understand the website’s users. Specifically, I was interested in how environmental scientists searched for and gathered relevant research, along with investigating the features of websites they often used.</p>
 
         <p class="mytxt">To investigate this process, I interviewed an aspiring environmental engineer who had interned at a public research organization and is earning a degree focusing on hydrology and hydraulics at Humboldt State University.</p>
@@ -210,33 +264,42 @@
 
         <p class="mytxt">With these insights, I sought to better define the potential users of the SCCWRP’s website, their specific needs, and how they would use the website. </p>
         <br>
+        <br>
 
       </div>
 
 
       <!-- UX Storytelling -->
-      <div class="container">
+      <div class="container" id="ux_storytelling">
         <div class="row">
-          <h2 class="myH2">UX Storytelling</h2>
+          <h2 class="myH2">UX Storytelling</h2><br>
 
           <p class="mytxt">After determining the main user groups for the SCCWRP’s website, I created two personas:</p>
         </div>
 
         <div class="row">
           <div class="col-sm">
-            <h4 class="myH4">Alex Laurier</h4>
-            <p class="mytxt">an Environmental Health Specialist working for Ventura County</p>
-            <img src="Alex_Persona.png" height="50%" class="card-img-top" alt="Alex User Persona">
-          <br>
-          <br>
+            <div class="card">
+              <h4 class="myH4">Alex Laurier</h4>
+              <img src="Alex_Persona.png" class="card-img-top" alt="Alex User Persona">
+              <div class="card-body">
+                <p class="mytxt">an Environmental Health Specialist working for Ventura County</p>
+              </div>
+            </div>
+            <br>
+            <br>
           </div>
 
           <div class="col-sm">
-            <h4 class="myH4">Trent Ansari</h4>
-            <p class="mytxt">an environmental science graduate student studying coastal water contamination</p>
-            <img src="Trent_Persona.png" height="50%" class="card-img-top" alt="Trent User Persona">
-          <br>
-          <br>
+            <div class="card">
+              <h4 class="myH4">Trent Ansari</h4>
+              <img src="Trent_Persona.png" class="card-img-top" alt="Trent User Persona">
+              <div class="card-body">
+                <p class="mytxt">an environmental science graduate student studying coastal water contamination</p>
+              </div>
+            </div>
+            <br>
+            <br>
           </div>
         </div>
 
@@ -252,27 +315,27 @@
 
 
       <!-- Wireframes & Low Fidelity Prototype -->
-      <div class="container">
+      <div class="container" id="lofi">
         <h2 class="myH2">Wireframes & Low Fidelity Prototype</h2>
         <p class="mytxt">To begin the design process, I defined several central user tasks based on the persona scenarios. I additionally realized users would likely want to review Requests for Proposals (RFPs) on the website (especially outside public agencies relevant to Alex Laurier’s persona), so I decided to include a new task. The three tasks the prototype would focus on were:</p>
 
         <ol class="mylist">
           <b>
-            <li class="mytext">Search for a recent article assessing the sea life in California’s coastal waters (relevant to Trent’s User Scenario)<br></li>
+            <li class="mytext">Search for a recent article assessing the sea life in California’s coastal waters (relevant to Trent’s User Scenario)<br><br></li>
           </b>
 
           <b>
-            <li class="mytext">Find a the most recent publication and send it to a coworker (relevant to Alex’s User Scenario)<br></li>
+            <li class="mytext">Find a the most recent publication and send it to a coworker (relevant to Alex’s User Scenario)<br><br></li>
           </b>
 
           <b>
-            <li class="mytext">Determine the presently available Requests for Proposals and submit your contact information to be added to the bidder’s list<br></li>
+            <li class="mytext">Determine the presently available Requests for Proposals and submit your contact information to be added to the bidder’s list<br><br></li>
           </b>
         </ol>
 
         <p class="mytxt">Using these tasks as I guide, I designed wireframes for each of the relevant pages before creating a user flow diagram mapping each of these tasks.</p>
 
-        <img src="DH110_wireflow.png" height="50%" class="card-img-top" alt="Wireframes User Flow Diagram">
+        <img src="DH110_wireflow.png" class="card-img-top" alt="Wireframes User Flow Diagram">
 
         <p class="mytxt">I then created a low fidelity prototype in Figma based on the digital wireflow and had a user walk through the lo-fi prototype to identify any particular pain points with the first version of my design. I determined there was slight confusion with the placement and change in buttons across several pages, and there was some confusion when locating recently published articles. I thus made two revisions to my proposed design where I added a sorting functionality to the research search page, and I made the decision to remove a button on the RFPs page and embed the content the button would have overlaid directly on the page.</p>
 
@@ -293,7 +356,7 @@
 
 
       <!-- Interface Design -->
-      <div class="container">
+      <div class="container" id="design">
         <h2 class="myH2">Interface Design</h2>
 
         <div class="row">
@@ -319,7 +382,7 @@
 
 
       <!-- High Fidelity Prototype -->
-      <div class="container">
+      <div class="container" id="hifi">
         <h2 class="myH2">High Fidelity Prototype</h2>
 
         <div class="row">
@@ -343,7 +406,7 @@
 
 
       <!-- Redesign Evaluation and Revision -->
-      <div class="container">
+      <div class="container" id="redesign">
         <h2 class="myH2">Redesign Evaluation & Revision</h2>
         <img src="screenshot1.png" height="50%" class="card-img-top" alt="Usability Test Screenshot">
 
@@ -385,7 +448,7 @@
 
 
       <!-- Pitch video -->
-      <div class="container">
+      <div class="container" id="pitch">
         <h2 class="myH2">Pitch video</h2>
         <br>
         <br>
