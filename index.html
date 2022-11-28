@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+  <!-- This is a comment, en stands for english-->
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width-device-width, initial-scale-1, shrink-to-fit-no">
+
+    <!-- Bootstrap CSS-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+    <title>SCCWRP Redesign</title>
+
+  </head>
+
+  <style>
+    body {
+      background-color: #E4F6F9;
+    }
+
+    section {
+      padding: 20px;
+      border: 5px double black;
+      margin: 20px;
+    }
+
+    #myHeader {
+      background-color: #A6D7DD;
+    }
+
+    .myH2 {
+      font-family: Montserrat, Roboto, sans-serif;
+      color: #174C4F;
+      text-align: left;
+      padding: 12px;
+    }
+
+    .myH3 {
+      font-family: Montserrat, Roboto, sans-serif;
+      font-weight: 700;
+      color: #174C4F;
+      text-align: left;
+      padding: 12px;
+
+    }
+
+    .myH4 {
+      font-family: Montserrat, Roboto, sans-serif;
+      font-weight: 700;
+      color: #174C4F;
+      text-align: left;
+      padding: 12px;
+    }
+
+    .mytxt {
+      font-family: Montserrat, Roboto, sans-serif;
+      color: black;
+      text-align: left;
+      padding: 8px;
+    }
+
+    .mylist {
+      font-family: Montserrat, Roboto, sans-serif;
+      color: black;
+      text-align: left;
+      padding: 6px;
+    }
+
+    .mybold {
+      font-family: Montserrat, Roboto, sans-serif;
+      color: black;
+      font-weight: 700;
+    }
+
+    .btn {
+      background-color: #174C4F;
+      border: 1px solid #174C4F;
+      border-radius: 10px;
+      font-family: Montserrat, Roboto, sans-serif;
+      text-align: left;
+      color: white;
+      padding: 14px;
+    }
+
+  </style>
+
+  <body>
+    <!-- body element always have header, main, and footer elements -->
+    <header>
+      <div class="jumbotron" id="myHeader">
+        <h1 class="display-4">Improving the SCCWRP’s User Interface</h1>
+        <p class="lead">UX Project by Lindsay Harrison</p>
+        <hr class="my-4">
+        <p>Digital Humanities 110 at UCLA</p>
+        <!--<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>-->
+      </div>
+    </header>
+
+
+
+
+    <main>
+      <!-- About -->
+      <div class="container">
+        <div class="row">
+          <!--About -->
+          <h2 class="myH2">About</h2>
+
+          <p class="mytxt">As part of the Fall 2022 Digital Humanities 110 class at UCLA, I redesigned the website for the Southern California Coastal Water Research Project (SCCWRP) to improve navigation and the overall user experience. The SCCWRP is an organization responsible for researching topics related to marine waters to help set state guidelines and manage numerous companies and other organizations across Southern California. With such a responsibility, their website must cater to a variety of users, and it is integral they communicate and organize various website functionality effectively. Target users include environmental scientists and engineers, government policy makers, and outside organizations involved in environmental or financial practices.</p>
+
+          <p class="mytxt">After reviewing their current website, I found it difficult to digest and not well organized. Thus, I hope to contribute a web design that more clearly displays information and is easier to navigate.</p>
+        </div>
+        <br>
+      </div>
+
+      <!-- Design Statement -->
+      <div class="container">
+        <h2 class="myH2"> Design Statement</h2>
+        <div class="row">
+
+          <div class="col-sm">
+            <h3 class="myH3">The Problem</h3>
+            <p class="mytxt">For the project, the main issues I considered were:</p>
+            <ul class="mylist">
+              <li class="mytext"><b class="mybold">Difficult general navigation</b> - several relevant pages are somewhat hidden, and the navigation bar appears overwhelming.<br></li>
+
+              <li class="mytext"><b class="mybold">Awkward search functionality</b> - buttons do not follow button design conventions, difficult to read article titles, difficult to go back to previous search results.<br></li>
+
+              <li class="mytext"><b class="mybold">Cluttered page organization and lack of clarity</b> - many large text paragraphs clumped together, lack of eye-catching elements.<br></li>
+            </ul>
+          </div>
+          <div class="col-sm">
+            <h3 class="myH3">The Solution</h3>
+
+            <p class="mytxt">Improving the website’s navigation is important since they have a variety of information and functionality different users need to find. Additionally, improving search functionality and page clarity will make finding research easier and the site’s detailed information easier to digest. Thus, in this project, I set out to create a clearer, more eye-catching page design, a search page that better follows known website conventions, and an improved navigation bar and system.</p>
+
+          </div>
+        </div>
+        <br>
+        <br>
+      </div>
+
+      <!-- Competitor Analysis -->
+      <div class="container">
+        <div class="row">
+          <h2 class="myH2">Competitor analysis</h2>
+
+          <p class="mytxt">The first step into investigating the potential issues with the SCCWRP’s website was to identify its specific design problems and compare it to a website with similar functionality and information. Therefore, I decided to conduct a heuristic analysis to accomplish both of these tasks. I also piloted a usability test to further investigate these issues and to verify the test’s quality and effectiveness for later prototype usability testing.</p>
+
+          <a class="btn btn-primary" href="https://www.sccwrp.org/" role="button">View the SCCWRP's Current Website</a>
+
+        </div>
+
+        <br>
+        <br>
+
+        <!-- Heuristic Eval -->
+        <div class="row">
+          <h3 class="myH3">Heuristic Analysis</h3>
+
+          <img src="screenshot4.png" height="50%" class="card-img-top" alt="Heuristic Analysis Snapshot">
+
+          <p class="mytxt">To identify potential design flaws, I conducted a heuristic evaluation where I analyzed the SCCWRP’s website according to how well it followed Nielson’s 10 Heuristics for System Usability. I then performed the same analysis on a similar website - Ocean Visions, an organization connecting companies with current environmental research on a larger scale.</p>
+
+          <p class="mytxt">From my analysis, I found Ocean Visions could improve its navigation system by better labeling its pages, and it could display more descriptive error messages when pages fail to load. However, there were no major usability issues for any one heuristic. On the other hand, the SCCWRP had major usability issues with regard to its navigation system (user control and freedom heuristic) and page clarity and organization (consistency and standards heuristic).</p>
+
+          <p class="mytxt">This analysis helped me to identify possible design solutions to the SCCWRP website’s issues, but before I could begin implementing these solutions, I would need to have actual users confirm these design problems.</p>
+
+          <a class="btn btn-primary" href="https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT01" role="button">Read More</a>
+        </div>
+
+        <br>
+        <br>
+
+        <!-- Usability Test Pilot -->
+        <div class="row">
+          <h3 class="myH3">Usability Testing</h3>
+
+          <img src="screenshot3.png" height="50%" class="card-img-top" alt="Usability Testing Snapshot">
+
+          <p class="mytxt">Following my heuristic analysis, I pilotted a usability test featuring four tasks SCCWRP users were likely to engage in. This pilot usability test would help me to not only confirm issues found in the heuristic analysis, but to explore other potential issues as well.</p>
+
+          <p class="mytxt">The four tasks implemented in the usability test included: use search functionality to search for a research article, navigate to a relevant database, find information on public meetings, and find a researcher’s contact information. Moderating the usability test gave me insight as to how I should interact with and learn from participants.</p>
+
+          <a class="btn btn-primary" href="https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT02" role="button">Read More</a>
+        </div>
+        <br>
+        <br>
+      </div>
+
+      <!-- User Research -->
+      <div class="container">
+        <h2 class="myH2">User Research</h2>
+
+
+        <img src="screenshot2.png" height="50%" class="card-img-top" alt="User Research Snapshot">
+
+        <p class="mytxt">Once the design problems were properly identified, I set out to find a potential solution. To begin this process, I needed to better understand the website’s users. Specifically, I was interested in how environmental scientists searched for and gathered relevant research, along with investigating the features of websites they often used.</p>
+
+        <p class="mytxt">To investigate this process, I interviewed an aspiring environmental engineer who had interned at a public research organization and is earning a degree focusing on hydrology and hydraulics at Humboldt State University.</p>
+
+        <p class="mytxt">I found the process of searching for research is time-consuming and involves reviewing numerous details about an article. Researchers often keep a working list of potential research to use based on the article’s abstract. They then more fully review each article to decide if they can use it. The participant also indicated research websites featuring many subtopics can easily feel overwhelming, so she usually uses a general search functionality.</p>
+
+        <a class="btn btn-primary" href="https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT03" role="button">Read More</a>
+        <br>
+        <br>
+
+        <p class="mytxt">With these insights, I sought to better define the potential users of the SCCWRP’s website, their specific needs, and how they would use the website. </p>
+        <br>
+
+      </div>
+
+
+      <!-- UX Storytelling -->
+      <div class="container">
+        <div class="row">
+          <h2 class="myH2">UX Storytelling</h2>
+
+          <p class="mytxt">After determining the main user groups for the SCCWRP’s website, I created two personas:</p>
+        </div>
+
+        <div class="row">
+          <div class="col-sm">
+            <h4 class="myH4">Alex Laurier</h4>
+            <p class="mytxt">an Environmental Health Specialist working for Ventura County</p>
+            <img src="Alex_Persona.png" height="50%" class="card-img-top" alt="Alex User Persona">
+          <br>
+          <br>
+          </div>
+
+          <div class="col-sm">
+            <h4 class="myH4">Trent Ansari</h4>
+            <p class="mytxt">an environmental science graduate student studying coastal water contamination</p>
+            <img src="Trent_Persona.png" height="50%" class="card-img-top" alt="Trent User Persona">
+          <br>
+          <br>
+          </div>
+        </div>
+
+        <p class="mytxt">Based on these personas, I created an empathy map along with a user journey map for each. I then wrote a scenario for each persona describing how they would use the SCCWRP’s website, including searching for specific research articles and reviewing a recent report before sharing it with coworkers.</p>
+        <a class="btn btn-primary" href="https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT04" role="button">Read More</a>
+        <br>
+        <br>
+
+        <p class="mytxt">After defining the users through these personas, I felt I understood user needs, so I went ahead and began the design process.</p>
+        <br>
+        <br>
+      </div>
+
+
+      <!-- Wireframes & Low Fidelity Prototype -->
+      <div class="container">
+        <h2 class="myH2">Wireframes & Low Fidelity Prototype</h2>
+        <p class="mytxt">To begin the design process, I defined several central user tasks based on the persona scenarios. I additionally realized users would likely want to review Requests for Proposals (RFPs) on the website (especially outside public agencies relevant to Alex Laurier’s persona), so I decided to include a new task. The three tasks the prototype would focus on were:</p>
+
+        <ol class="mylist">
+          <b>
+            <li class="mytext">Search for a recent article assessing the sea life in California’s coastal waters (relevant to Trent’s User Scenario)<br></li>
+          </b>
+
+          <b>
+            <li class="mytext">Find a the most recent publication and send it to a coworker (relevant to Alex’s User Scenario)<br></li>
+          </b>
+
+          <b>
+            <li class="mytext">Determine the presently available Requests for Proposals and submit your contact information to be added to the bidder’s list<br></li>
+          </b>
+        </ol>
+
+        <p class="mytxt">Using these tasks as I guide, I designed wireframes for each of the relevant pages before creating a user flow diagram mapping each of these tasks.</p>
+
+        <img src="DH110_wireflow.png" height="50%" class="card-img-top" alt="Wireframes User Flow Diagram">
+
+        <p class="mytxt">I then created a low fidelity prototype in Figma based on the digital wireflow and had a user walk through the lo-fi prototype to identify any particular pain points with the first version of my design. I determined there was slight confusion with the placement and change in buttons across several pages, and there was some confusion when locating recently published articles. I thus made two revisions to my proposed design where I added a sorting functionality to the research search page, and I made the decision to remove a button on the RFPs page and embed the content the button would have overlaid directly on the page.</p>
+
+        <!-- embed figma prototype-->
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FiT6y4RFBslbaPMLKNauFgU%2FDH110-a5%3Fnode-id%3D38%253A1795%26scaling%3Dscale-down%26page-id%3D38%253A1794%26starting-point-node-id%3D38%253A1795" allowfullscreen></iframe>
+          <br>
+          <br>
+        </div>
+
+
+
+        <a class="btn btn-primary" href="https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT05" role="button">Read More</a>
+
+        <br>
+        <br>
+      </div>
+
+
+      <!-- Interface Design -->
+      <div class="container">
+        <h2 class="myH2">Interface Design</h2>
+
+        <div class="row">
+          <div class="col-sm">
+            <img src="Color.png" height="50%" class="card-img-top" alt="Design Iterations Color Snapshot">
+          </div>
+          <div class="col-sm">
+            <img src="Shape.png" height="50%" class="card-img-top" alt="Design Iterations Shape Snapshot">
+          </div>
+        </div>
+
+        <p class="mytxt">After conducting an initial usability test and refining the placement of page elements, it was time to design each of the elements and determine the overall look and feel of the redesigned website. Using the home page from my wireframes, I made several design iterations on the website’s layout, font family, color scheme, along with button and callout shapes. I decided on a final design for both a light mode and dark mode for the website, and I ensured all color contrast pairings passed at a WCAG AA level. From there, I conducted an impression test on the redesigned homepage, and because the participant described my design as clear and professional, I decided my interface was suitable to move forward with.</p>
+
+
+        <p class="mytxt">The final design (light mode):</p>
+        <img src="SCCWRP_Home.png" height="50%" class="card-img-top" alt="Final Design Homepage Light Mode">
+
+        <a class="btn btn-primary" href="https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT06" role="button">Read More</a>
+
+        <br>
+        <br>
+      </div>
+
+
+      <!-- High Fidelity Prototype -->
+      <div class="container">
+        <h2 class="myH2">High Fidelity Prototype</h2>
+
+        <div class="row">
+          <div class="col-sm">
+            <img src="webflow.png" height="50%" class="card-img-top" alt="Hi-Fi User Flow Desktop">
+          </div>
+          <div class="col-sm">
+            <img src="phoneflow.png" height="50%" class="card-img-top" alt="Hi-Fi User Flow Mobile">
+          </div>
+        </div>
+
+        <p class="mytxt">Based on the digitized low fidelity prototype and interface redesign, I implemented the decided graphic styling on each page from the wireframes and created a user flow diagram with the more polished webpages, as seen above. Because using cell phones to complete tasks is becoming more and more commonplace, I additionally created a graphic interface and user flow for a mobile version of the website, as pictured above. However, as users indicated they would mostly use the SCCWRP on a desktop computer (see user research above), I kept my focus on the website’s desktop version.</p>
+
+        <p class="mytxt">I then created a high fidelity prototype in Figma based on the website version’s updated user flow diagram, complete with animations and button interactivity. Review the high fidelity prototype below:</p>
+
+        <!-- embedded hi fi prototype -->
+        <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FxzR7iIfVUL9oAgz11oa84v%2FDH110-a7%3Fnode-id%3D19%253A1753%26scaling%3Dscale-down%26page-id%3D19%253A1752%26starting-point-node-id%3D19%253A1753" allowfullscreen></iframe>
+        <br>
+        <br>
+      </div>
+
+
+      <!-- Redesign Evaluation and Revision -->
+      <div class="container">
+        <h2 class="myH2">Redesign Evaluation & Revision</h2>
+        <img src="screenshot1.png" height="50%" class="card-img-top" alt="Usability Test Screenshot">
+
+        <p class="mytxt">As a final step in the research and design process, I evaluated the redesign and determined how to revise it.</p>
+
+        <p class="mytxt">I conducted a cognitive walkthrough with my peers, fellow UX designers also enrolled in Digital Humanities 110. From this, I learned some labels could be reworded for clarity, several links in the navigation menu dropdowns should and could be better distinguished from others, the back button should be more consistently placed across all pages, and navigating to the publications search page should be even more readily available from the home page.</p>
+
+        <p class="mytxt">After the cognitive walkthrough, I also conducted two usability tests based on the earlier usability test, but with revised tasks more in line with the three defined when creating the initial prototype. Both participants were able to complete all tasks, and from analyzing their Production Satisfaction Card selection, the top words used to describe the redesign are <b class="mybold">“calm”</b> and <b class="mybold">“professional”</b>. Additionally, the redesign’s <b class="mybold">SUS score was 64.17</b> (see linked documentation below for more details on calculation). From these usability tests, I determined finding recent publications still took too long, so I added a subheading titled “Recent Publications” to the publications search page. I also determined some text sizes were too small as one participant had difficulty reading information, so I increased their font size.</p>
+
+        <a class="btn btn-primary" href="https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT07" role="button">More on the Hi-Fi Prototype & Usability Testing</a>
+        <br>
+        <br>
+
+        <p class="mytxt">Finally, I used what I learned from the cognitive walkthrough and usability tests to make some final adjustments to the redesign. The final design can be seen below:</p>
+
+        <div class="row">
+          <div class="col-sm">
+            <img src="final1.png" height="50%" class="card-img-top" alt="Final Redesign Page 1">
+          </div>
+          <div class="col-sm">
+            <img src="final2.png" height="50%" class="card-img-top" alt="Final Redesign Page 2">
+          </div>
+          <div class="col-sm">
+            <img src="final3.png" height="50%" class="card-img-top" alt="Final Redesign Page 3">
+          </div>
+          <div class="col-sm">
+            <img src="final4.png" height="50%" class="card-img-top" alt="Final Redesign Page 4">
+          </div>
+          <div class="col-sm">
+            <img src="final5.png" height="50%" class="card-img-top" alt="Final Redesign Page 5">
+          </div>
+          <div class="col-sm">
+            <img src="final6.png" height="50%" class="card-img-top" alt="Final Redesign Page 6">
+          </div>
+        </div>
+        <br>
+        <br>
+      </div>
+
+
+      <!-- Pitch video -->
+      <div class="container">
+        <h2 class="myH2">Pitch video</h2>
+        <br>
+        <br>
+      </div>
+
+
+      <!-- conclusion -->
+      <div class="container">
+        <h2 class="myH2">Conclusion</h2>
+
+        <p class="mytxt">To further the design process for the SCCWRP redesign, I would conduct five usability tests with target users on the updated, final design. I believe this would identify any hidden problems with the design before it would be truly finalized, and the feedback could verify the website as effective and professional.</p>
+
+        <p class="mytxt">Overall, the process of researching and designing the SCCWRP’s website was slightly challenging. The SCCWRP’s website serves a variety of purposes, so identifying which pages were the most important for the most users and reorganizing the pages in the updated navigation bar felt challenging. Still, I enjoyed the challenge and did my best to tackle the design problems as best I could. My favorite part of this project was determining exact solutions to the individual problems I faced - both in the initial design (e.g., when I was trying to figure out where to put the News Articles page in the navigation bar) and after given feedback (e.g., when a user had difficulty finding recent publications). I enjoyed the ideation and implementation process - I wanted to improve usability and know that my improvements made a difference.</p>
+
+        <p class="mytxt">Nevertheless, I did struggle during the user research portion of the project in terms of recruitment. My user group was defined as adults older than 25 working in environmental research or for institutions carrying out work related to SCCWRP needs. In my network, I do not know many individuals meeting this description. I talked with friends, family, coworkers, and posted on online forums looking for potential participants/interviewees, and still had difficulty finding participants. However, I was able to find several individuals passionate about environmental research who were excellent, though were a few years younger than my intended user group.</p>
+
+        <p class="mytxt">I did not expect the design and prototyping phases of this project to be the most fun for me, but it was a pleasant surprise. In future UX projects, I think I would put more emphasis on and devote more time to the user research phase. I think interviewing more than one participant to help me learn more about the user group would have helped me design some of the tasks better earlier on. Furthermore, in both prototyping phases of future projects (both lo-fi and hi-fi), I would like to conduct 3-5 usability tests to better understand user pain points with the current design - I think it would better help me iterate on the design.</p>
+
+      </div>
+
+    </main>
+
+
+    <footer>
+      <hr>
+      <small>&copy; Lindsay Harrison, 2022</small>
+
+    </footer>
+
+    <!--jquery scripts-->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+  </body>
+
+</html>
+
+
+<!-- if you need to use < or > in contents, &it; is < and &gt; is > also use &amp for &. refer to slides.-->
