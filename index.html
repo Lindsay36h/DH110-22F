@@ -29,6 +29,7 @@
 
     #myHeader {
       background-color: #A6D7DD;
+      display: block;
     }
 
     .myH2 {
@@ -36,6 +37,9 @@
       color: #174C4F;
       text-align: left;
       padding: 12px;
+      margin-top: 48px;
+      margin-bottom: 36px;
+      display: block;
     }
 
     .myH3 {
@@ -44,6 +48,7 @@
       color: #174C4F;
       text-align: left;
       padding: 12px;
+      display: block;
 
     }
 
@@ -53,6 +58,7 @@
       color: #174C4F;
       text-align: left;
       padding: 12px;
+      display: block;
     }
 
     .mytxt {
@@ -60,6 +66,7 @@
       color: black;
       text-align: left;
       padding: 8px;
+      display: block;
     }
 
     .mylist {
@@ -67,6 +74,7 @@
       color: black;
       text-align: left;
       padding: 6px;
+      display: block;
     }
 
     .mybold {
@@ -82,8 +90,37 @@
       font-family: Montserrat, Roboto, sans-serif;
       text-align: center;
       color: white;
-      margin: auto;
+      margin: 28px;
       padding: 14px;
+      display: inline-block;
+      
+      transition-duration: 0.4s;
+    }
+    
+    .btn:hover {
+      background-color: white;
+      border: 3px solid #174C4F;
+      border-radius: 10px;
+      font-family: Montserrat, Roboto, sans-serif;
+      text-align: center;
+      color: #174C4F;
+      margin: 28px;
+      padding: 14px;
+      display: inline-block;
+      
+    }
+    
+    .card-img-top {
+      margin: 20px;
+    }
+
+    .nav-item {
+      margin: 8px;
+
+    }
+
+    .nav-link {
+      color: #174C4F;
     }
 
   </style>
@@ -94,28 +131,28 @@
       <div class="card-header">
         <ul class="nav nav-pills card-header-pills">
           <li class="nav-item">
-            <a class="nav-link active" href="#comp_analysis">Competitor Analysis</a>
+            <a class="nav-link" href="#comp_analysis">Competitor Analysis</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="#user_research">User Research</a>
+            <a class="nav-link" href="#user_research">User Research</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="#ux_storytelling">UX Storytelling</a>
+            <a class="nav-link" href="#ux_storytelling">UX Storytelling</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="#lofi">Low-Fidelity Prototype</a>
+            <a class="nav-link" href="#lofi">Low-Fidelity Prototype</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="#design">Interface Design</a>
+            <a class="nav-link" href="#design">Interface Design</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="#hifi">High-Fidelity Prototype</a>
+            <a class="nav-link" href="#hifi">High-Fidelity Prototype</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="#redesign">Revisions</a>
+            <a class="nav-link" href="#redesign">Revisions</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="#pitch">Pitch Video</a>
+            <a class="nav-link" href="#pitch">Pitch Video</a>
           </li>
         </ul>
       </div>
@@ -361,10 +398,10 @@
 
         <div class="row">
           <div class="col-sm">
-            <img src="Color.png" height="50%" class="card-img-top" alt="Design Iterations Color Snapshot">
+            <img src="Color.png" class="card-img-top" alt="Design Iterations Color Snapshot">
           </div>
           <div class="col-sm">
-            <img src="Shape.png" height="50%" class="card-img-top" alt="Design Iterations Shape Snapshot">
+            <img src="Shape.png" class="card-img-top" alt="Design Iterations Shape Snapshot">
           </div>
         </div>
 
@@ -372,7 +409,7 @@
 
 
         <p class="mytxt">The final design (light mode):</p>
-        <img src="SCCWRP_Home.png" height="50%" class="card-img-top" alt="Final Design Homepage Light Mode">
+        <img src="SCCWRP_Home.png" height="50%" width="50%" class="card-img-top" alt="Final Design Homepage Light Mode">
 
         <a class="btn btn-primary" href="https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT06" role="button">Read More</a>
 
@@ -387,10 +424,10 @@
 
         <div class="row">
           <div class="col-sm">
-            <img src="webflow.png" height="50%" class="card-img-top" alt="Hi-Fi User Flow Desktop">
+            <img src="webflow.png" class="card-img-top" alt="Hi-Fi User Flow Desktop">
           </div>
           <div class="col-sm">
-            <img src="phoneflow.png" height="50%" class="card-img-top" alt="Hi-Fi User Flow Mobile">
+            <img src="phoneflow.png" class="card-img-top" alt="Hi-Fi User Flow Mobile">
           </div>
         </div>
 
@@ -399,9 +436,11 @@
         <p class="mytxt">I then created a high fidelity prototype in Figma based on the website version’s updated user flow diagram, complete with animations and button interactivity. Review the high fidelity prototype below:</p>
 
         <!-- embedded hi fi prototype -->
-        <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FxzR7iIfVUL9oAgz11oa84v%2FDH110-a7%3Fnode-id%3D19%253A1753%26scaling%3Dscale-down%26page-id%3D19%253A1752%26starting-point-node-id%3D19%253A1753" allowfullscreen></iframe>
-        <br>
-        <br>
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FxzR7iIfVUL9oAgz11oa84v%2FDH110-a7%3Fnode-id%3D19%253A1753%26scaling%3Dscale-down%26page-id%3D19%253A1752%26starting-point-node-id%3D19%253A1753" allowfullscreen></iframe>
+          <br>
+          <br>
+        </div>
       </div>
 
 
@@ -424,22 +463,22 @@
 
         <div class="row">
           <div class="col-sm">
-            <img src="final1.png" height="50%" class="card-img-top" alt="Final Redesign Page 1">
+            <img src="final1.png" class="card-img-top" alt="Final Redesign Page 1">
           </div>
           <div class="col-sm">
-            <img src="final2.png" height="50%" class="card-img-top" alt="Final Redesign Page 2">
+            <img src="final2.png" class="card-img-top" alt="Final Redesign Page 2">
           </div>
           <div class="col-sm">
-            <img src="final3.png" height="50%" class="card-img-top" alt="Final Redesign Page 3">
+            <img src="final3.png" class="card-img-top" alt="Final Redesign Page 3">
           </div>
           <div class="col-sm">
-            <img src="final4.png" height="50%" class="card-img-top" alt="Final Redesign Page 4">
+            <img src="final4.png" class="card-img-top" alt="Final Redesign Page 4">
           </div>
           <div class="col-sm">
-            <img src="final5.png" height="50%" class="card-img-top" alt="Final Redesign Page 5">
+            <img src="final5.png" class="card-img-top" alt="Final Redesign Page 5">
           </div>
           <div class="col-sm">
-            <img src="final6.png" height="50%" class="card-img-top" alt="Final Redesign Page 6">
+            <img src="final6.png" class="card-img-top" alt="Final Redesign Page 6">
           </div>
         </div>
         <br>
