@@ -30,6 +30,7 @@
     #myHeader {
       background-color: #A6D7DD;
       display: block;
+      text-align: center;
     }
 
     .myH2 {
@@ -77,6 +78,16 @@
       display: block;
     }
 
+    .mylistitem {
+      font-family: Montserrat, Roboto, sans-serif;
+      color: black;
+      text-align: left;
+      padding: 8px;
+      display: block;
+      margin-left: 4px;
+      margin-right: 46px;
+    }
+
     .mybold {
       font-family: Montserrat, Roboto, sans-serif;
       color: black;
@@ -122,6 +133,15 @@
 
     .nav-link {
       color: #174C4F;
+    }
+
+    .container {
+      background-color: #F0FDFF;
+      border-radius: 8px;
+    }
+    
+    .card-header{
+      text-align: center;
     }
 
   </style>
@@ -178,7 +198,6 @@
     <main>
       <!-- About -->
       <div class="container">
-        <div class="row">
           <!--About -->
           <h2 class="myH2">About</h2>
 
@@ -187,7 +206,6 @@
           <p class="mytxt">After reviewing their current website, I found it difficult to digest and not well organized. Thus, I hope to contribute a web design that more clearly displays information and is easier to navigate.</p>
         </div>
         <br>
-      </div>
 
       <!-- Design Statement -->
       <div class="container">
@@ -200,11 +218,11 @@
                 <h3 class="myH3">The Problem</h3>
                 <p class="mytxt">For the project, the main issues I considered were:</p>
                 <ul class="mylist">
-                  <li class="mytext"><b class="mybold">Difficult general navigation</b> - several relevant pages are somewhat hidden, and the navigation bar appears overwhelming.<br><br></li>
+                  <li class="mylistitem"><b class="mybold">Difficult general navigation</b> - several relevant pages are somewhat hidden, and the navigation bar appears overwhelming.<br><br></li>
 
-                  <li class="mytext"><b class="mybold">Awkward search functionality</b> - buttons do not follow button design conventions, difficult to read article titles, difficult to go back to previous search results.<br><br></li>
+                  <li class="mylistitem"><b class="mybold">Awkward search functionality</b> - buttons do not follow button design conventions, difficult to read article titles, difficult to go back to previous search results.<br><br></li>
 
-                  <li class="mytext"><b class="mybold">Cluttered page organization and lack of clarity</b> - many large text paragraphs clumped together, lack of eye-catching elements.<br><br></li>
+                  <li class="mylistitem"><b class="mybold">Cluttered page organization and lack of clarity</b> - many large text paragraphs clumped together, lack of eye-catching elements.<br><br></li>
                 </ul>
               </div>
             </div>
@@ -227,14 +245,11 @@
 
       <!-- Competitor Analysis -->
       <div class="container" id="comp_analysis">
-        <div class="row">
           <h2 class="myH2">Competitor analysis</h2>
 
           <p class="mytxt">The first step into investigating the potential issues with the SCCWRP’s website was to identify its specific design problems and compare it to a website with similar functionality and information. Therefore, I decided to conduct a heuristic analysis to accomplish both of these tasks. I also piloted a usability test to further investigate these issues and to verify the test’s quality and effectiveness for later prototype usability testing.</p>
 
           <a class="btn btn-primary" href="https://www.sccwrp.org/" role="button">View the SCCWRP's Current Website</a>
-
-        </div>
 
         <br>
         <br>
@@ -413,7 +428,7 @@
         <p class="mytxt">After conducting an initial usability test and refining the placement of page elements, it was time to design each of the elements and determine the overall look and feel of the redesigned website. Using the home page from my wireframes, I made several design iterations on the website’s layout, font family, color scheme, along with button and callout shapes. I decided on a final design for both a light mode and dark mode for the website, and I ensured all color contrast pairings passed at a WCAG AA level. From there, I conducted an impression test on the redesigned homepage, and because the participant described my design as clear and professional, I decided my interface was suitable to move forward with.</p>
 
 
-        <H4 class="myH4">The final design (light mode):</H4>
+        <H4 class="myH4">The Final Design (light mode):</H4>
         <img src="SCCWRP_Home.png" height="50%" width="50%" class="card-img-top" alt="Final Design Homepage Light Mode">
 
         <a class="btn btn-primary" href="https://github.com/Lindsay36h/DH110-22F/tree/main/ASSIGNMENT06" role="button">Read More</a>
